@@ -17,7 +17,7 @@
 <p align="center">
   <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="500" alt="GIF" style="border-radius: 12px;"/>
 </p>
-
+<img src="URL_IMAGEM" width="450" alt="GIF" style="border-radius: 0px;"/>
 ## 🚀 Tecnologias e Ferramentas
 
 <div align="center">
